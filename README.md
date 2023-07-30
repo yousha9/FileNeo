@@ -6,3 +6,6 @@ Requiremet
 (2) Script can be run a follows:
     python FileNeo.py <URL> <PATH>
     python FileNeo.py --help
+
+
+This is my first Python script, you can modify it as you want and if there are any bugs (as it was not tested thoroughly) just let me know. If the modified script is better, send me a copy so that i can learn and get experience. 
